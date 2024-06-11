@@ -1,2 +1,2 @@
-def hello():
-    print("Hello, world!")
+def hello(someone):
+    print(f"Hello, world! {someone}")
