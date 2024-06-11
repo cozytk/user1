@@ -1,2 +1,2 @@
 def hello(someone):
-    print(f"Hello, world! {someone}")
+    print(f"안녕! {someone}")
